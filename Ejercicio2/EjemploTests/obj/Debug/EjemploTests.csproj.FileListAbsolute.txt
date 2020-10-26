@@ -1,0 +1,17 @@
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\EjemploTests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\EjemploTests.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Ejemplo.exe
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Ejemplo.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Ejemplo.exe.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\obj\Debug\EjemploTests.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\obj\Debug\EjemploTests.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\obj\Debug\EjemploTests.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\obj\Debug\EjemploTests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejemplo\EjemploTests\obj\Debug\EjemploTests.pdb

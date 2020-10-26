@@ -1,0 +1,17 @@
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Ejercicio1Tests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Ejercicio1Tests.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Ejercicio1.exe
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Ejercicio1.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Ejercicio1.exe.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\obj\Debug\Ejercicio1Tests.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\obj\Debug\Ejercicio1Tests.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\obj\Debug\Ejercicio1Tests.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\obj\Debug\Ejercicio1Tests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1Tests\obj\Debug\Ejercicio1Tests.pdb

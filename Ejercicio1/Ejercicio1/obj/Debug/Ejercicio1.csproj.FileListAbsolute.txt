@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\Ejercicio2\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
