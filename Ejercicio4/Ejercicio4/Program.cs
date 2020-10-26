@@ -27,8 +27,6 @@ namespace Ejercicio4
                 Console.WriteLine(ex.Message);
             }
 
-            Console.WriteLine("Excepción: ");
-
             Console.WriteLine("Presione una tecla para salir");
 
             Console.ReadKey();

@@ -13,7 +13,7 @@ namespace Ejercicio4
         #endregion
 
         #region Constructor
-        public CustomException(string myException) : base (myException)
+        public CustomException(string myException) : base ("Excepcion personalizada: " + myException)
         {
             this.myException = myException;
         }
