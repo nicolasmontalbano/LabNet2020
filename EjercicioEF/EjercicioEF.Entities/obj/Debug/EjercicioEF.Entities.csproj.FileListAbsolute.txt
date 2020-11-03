@@ -1,0 +1,12 @@
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\bin\Debug\EjercicioEF.Entities.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\bin\Debug\EjercicioEF.Entities.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\bin\Debug\EjercicioEF.Entities.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\bin\Debug\EntityFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\bin\Debug\EntityFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.pdb
