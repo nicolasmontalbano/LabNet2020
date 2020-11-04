@@ -9,10 +9,14 @@ namespace EjercicioEF.Logic
 {
     interface ILogic<T>
     {
-
         List<T> GetAll();
 
         T GetOne(int id);
+
+        T Insert(T entity);
+
+        void Update(T entity, int id);
+        void Delete(int id);
 
     }
 }

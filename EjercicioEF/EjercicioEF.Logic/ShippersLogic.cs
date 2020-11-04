@@ -10,17 +10,11 @@ namespace EjercicioEF.Logic
 {
     class ShippersLogic : BaseLogic, ILogic<Shippers>
     {
+           
 
         public List<Shippers> GetAll()
-        {
-            try
-            {
-                return context.Shippers.ToList();
-            }
-            catch (InvalidOperationException ex)
-            {
-                throw ex;
-            }
+        {           
+                return context.Shippers.ToList();           
         }
 
 
@@ -34,6 +28,36 @@ namespace EjercicioEF.Logic
             {
                 throw ex;
             }
+        }
+
+        public Shippers Insert(Shippers entity)
+        {
+            int ultimoId = (from prod in context.Products
+                            orderby prod.ProductID descending
+                            select prod.ProductID
+                            ).FirstOrDefault();
+            ultimoId++;
+            entity.ShipperID = ultimoId;
+            Shippers nuevoExpedidor = context.Shippers.Add(entity);
+            context.SaveChanges();
+            return nuevoExpedidor;
+        }
+
+        public void Update(Shippers entity, int id)
+        {
+            Shippers expedidorAEditar = GetOne(id);
+            expedidorAEditar.CompanyName = entity.CompanyName;
+            expedidorAEditar.Orders = entity.Orders;
+            expedidorAEditar.Phone = entity.Phone;
+
+            context.SaveChanges();
+        }
+
+        public void Delete(int id)
+        {
+            Shippers expedidorAEliminar = GetOne(id);
+            context.Shippers.Remove(expedidorAEliminar);
+            context.SaveChanges();
         }
     }
 }

@@ -9,17 +9,11 @@ using System.Threading.Tasks;
 namespace EjercicioEF.Logic
 {
     class ProductsLogic : BaseLogic, ILogic<Products>
-    {      
+    {
+
         public List<Products> GetAll()
-        {
-            try
-            {
-                return context.Products.ToList();
-            }
-            catch (Exception)
-            {
-                throw;
-            }
+        {            
+                return context.Products.ToList();            
         }
 
         public Products GetOne(int id)
@@ -28,13 +22,44 @@ namespace EjercicioEF.Logic
             {
                 return context.Products.First(p => p.ProductID.Equals(id));
             }
-            catch (Exception)
+            catch (InvalidOperationException ex)
             {
-                throw;
+                throw ex;
             }
         }
 
+        public Products Insert(Products entity)
+        {
+            int ultimoId = (from prod in context.Products
+                            orderby prod.ProductID descending
+                            select prod.ProductID
+                            ).FirstOrDefault();
+            ultimoId++;
+            entity.ProductID = ultimoId;
+            Products nuevoProducto = context.Products.Add(entity);
+            context.SaveChanges();
+            return nuevoProducto;           
+        }
 
+        public void Update(Products entity, int id)
+        {
 
+            Products productoAEditar = GetOne(id);
+            productoAEditar.ProductName = entity.ProductName;
+            productoAEditar.QuantityPerUnit = entity.QuantityPerUnit;
+            productoAEditar.UnitPrice = entity.UnitPrice;
+            productoAEditar.UnitsInStock = entity.UnitsInStock;
+            productoAEditar.UnitsOnOrder = entity.UnitsOnOrder;
+
+            context.SaveChanges();
+
+        }
+
+        public void Delete(int id)
+        {
+            Products productoAEliminar = GetOne(id);
+            context.Products.Remove(productoAEliminar);
+            context.SaveChanges();
+        }
     }
 }
