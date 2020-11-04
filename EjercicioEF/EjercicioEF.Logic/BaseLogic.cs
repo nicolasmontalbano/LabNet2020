@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioEF.Logic
 {
-    class BaseLogic
+    public class BaseLogic
     {
         protected readonly NorthwindContext context;
 

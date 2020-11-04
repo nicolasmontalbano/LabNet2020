@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioEF.Logic
 {
-    class ProductsLogic : BaseLogic, ILogic<Products>
+    public class ProductsLogic : BaseLogic, ILogic<Products>
     {
 
         public List<Products> GetAll()

@@ -58,6 +58,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EjercicioEF.Entities\EjercicioEF.Entities.csproj">
+      <Project>{8E4281CF-1636-4680-BD63-07191D229429}</Project>
+      <Name>EjercicioEF.Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EjercicioEF.Logic\EjercicioEF.Logic.csproj">
       <Project>{F57B1AD6-61BC-4C75-A236-4709494F9663}</Project>
       <Name>EjercicioEF.Logic</Name>
