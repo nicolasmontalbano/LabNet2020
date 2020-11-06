@@ -7,25 +7,33 @@ using System.Text;
 using System.Threading.Tasks;
 using EjercicioEF.Entities;
 using EjercicioEF.Data;
+using Moq;
 
 namespace EjercicioEF.Logic.Tests
 {
     [TestClass()]
-    public class ProductsLogicTests
+    public class ProductsLogicTests 
+
     {
+        Mock<NorthwindContext> mockContext = new Mock<NorthwindContext>();
         [TestMethod()]
         public void GetAllTest()
         {
-            //arrange
 
-            //act
 
-            ProductsLogic productsLogic = new ProductsLogic();
+            Mock<NorthwindContext> mockContext = new Mock<NorthwindContext>();          
 
-            var res = productsLogic.GetAll();
+            ProductsLogic productsLogic = new ProductsLogic(mockContext);
 
-            //assert System.Collections.Generic.List`1.[EjercicioEF.Entities.Products]
-            Assert.AreEqual(typeof(List<Products>), res);
+            Mock<ILogic<Products>> mock = new Mock<ILogic<Products>>();            
+          
+            mock.Setup(m => m.GetAll()).Returns( new List<Products>()  );                     
+
+            var allProducts = productsLogic.GetAll();
+
+
+            Assert.AreEqual( typeof(Mock<List<Products>>), allProducts );
+            
         }
 
 
@@ -40,7 +48,7 @@ namespace EjercicioEF.Logic.Tests
 
             // assert
 
-            ProductsLogic productsLogic = new ProductsLogic();
+            ProductsLogic productsLogic = new ProductsLogic(mockContext);
 
             productsLogic.GetOne(99);
         }

@@ -1,4 +1,5 @@
-﻿using EjercicioEF.Entities;
+﻿using EjercicioEF.Data;
+using EjercicioEF.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,12 +10,14 @@ namespace EjercicioEF.Logic
 {
     public class Menu
     {
+        NorthwindContext context = new NorthwindContext();
 
-        ShippersLogic shippersLogic = new ShippersLogic();
-        ProductsLogic productsLogic = new ProductsLogic();
+        
 
         public void MyMenu()
         {
+            ShippersLogic shippersLogic = new ShippersLogic(context);
+            ProductsLogic productsLogic = new ProductsLogic(context);
             bool aux = true;
 
             try

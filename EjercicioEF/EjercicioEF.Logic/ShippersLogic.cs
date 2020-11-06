@@ -1,5 +1,6 @@
 ﻿using EjercicioEF.Data;
 using EjercicioEF.Entities;
+using Moq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +9,24 @@ using System.Threading.Tasks;
 
 namespace EjercicioEF.Logic
 {
-    class ShippersLogic : BaseLogic, ILogic<Shippers>
+    public class ShippersLogic :  ILogic<Shippers>
     {
-           
+
+
+        private readonly NorthwindContext context;
+        private readonly Mock<NorthwindContext> mockContext;
+
+        public ShippersLogic(NorthwindContext context)
+        {
+            this.context = context;
+        }
+
+        public ShippersLogic(Mock<NorthwindContext> mockContext)
+        {
+            this.mockContext = mockContext;
+        }
+
+
 
         public List<Shippers> GetAll()
         {           

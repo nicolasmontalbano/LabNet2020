@@ -1,5 +1,6 @@
 ﻿using EjercicioEF.Data;
 using EjercicioEF.Entities;
+using Moq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,8 +9,29 @@ using System.Threading.Tasks;
 
 namespace EjercicioEF.Logic
 {
-    public class ProductsLogic : BaseLogic, ILogic<Products>
+    public class ProductsLogic :   ILogic<Products>
     {
+
+
+        private readonly NorthwindContext context;
+        private readonly Mock<NorthwindContext> mockContext;
+
+        public ProductsLogic(NorthwindContext context)
+        {
+            this.context = context;
+        }
+
+        public ProductsLogic(Mock<NorthwindContext> mockContext)
+        {
+            this.mockContext = mockContext;
+        }
+
+
+
+
+
+
+
 
         public List<Products> GetAll()
         {            

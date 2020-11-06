@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioEF.Logic
 {
-    interface ILogic<T>
+    public interface ILogic<T>
     {
         List<T> GetAll();
 

@@ -1,4 +1,5 @@
 ﻿using EjercicioEF.Data;
+using Moq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +11,18 @@ namespace EjercicioEF.Logic
     public class BaseLogic
     {
         protected readonly NorthwindContext context;
+        //protected readonly Mock<NorthwindContext> mockContext;
 
         public BaseLogic()
         {
             this.context = new NorthwindContext();
         }
+
+        //public BaseLogic(Mock<NorthwindContext> mockContext)
+        //{
+        //    this.mockContext = mockContext;
+        //}
+
+
     }
 }
