@@ -12,6 +12,7 @@ $(document).ready(function () {
         } else {
             $("#error").hide();
             $("#enviado").show();
+            $("#form")[0].reset();
         }
     });
 
