@@ -1,0 +1,72 @@
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.LogicTests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.LogicTests.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Entities.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Logic.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Data.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Entities.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Entities.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Logic.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Logic.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Data.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Data.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.LogicTests.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Castle.Core.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Moq.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Castle.Core.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Moq.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.LogicTests.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.LogicTests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.LogicTests.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Castle.Core.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Data.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Entities.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Logic.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Moq.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Data.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Data.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Entities.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Entities.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Logic.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EjercicioEF.Logic.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Castle.Core.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\Moq.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.LogicTests\obj\Debug\EjercicioEF.LogicTests.pdb

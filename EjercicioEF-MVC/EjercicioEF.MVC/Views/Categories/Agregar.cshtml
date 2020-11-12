@@ -1,0 +1,14 @@
+﻿@model EjercicioEF.MVC.Models.CategoriesView
+@{
+    ViewBag.Title = "Agregar Categoria";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Agregar", "Categories", FormMethod.Post))
+{
+    @Html.Partial("_FormCategories");
+}
+
+
+

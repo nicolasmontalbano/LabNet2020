@@ -1,0 +1,29 @@
+﻿@model List<EjercicioEF.MVC.Models.CategoriesView>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Categorias</h2>
+
+<table class="table">
+    <tr>
+        <td class="font-weight-bold">ID</td>
+        <td class="font-weight-bold">Nombre</td>
+        <td class="font-weight-bold">Descripción</td>
+        <td class="font-weight-bold">Acciones</td>
+    </tr>
+
+    @foreach (var cat in Model)
+    {
+<tr>
+    <td>@cat.Id</td>
+    <td>@cat.Nombre</td>
+    <td>@cat.Descripcion</td>
+    <td>@Html.ActionLink("Eliminar", "Delete", new { Id = cat.Id })</td>
+    <td>@Html.ActionLink("Actualizar", "Actualizar", new { Id = cat.Id})</td>
+</tr>
+    }
+
+</table>
+
+<div>@Html.ActionLink("Insertar", "Agregar", "Categories")</div>

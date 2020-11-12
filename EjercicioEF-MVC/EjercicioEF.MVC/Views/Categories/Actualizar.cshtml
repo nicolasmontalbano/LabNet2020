@@ -1,0 +1,12 @@
+﻿@model EjercicioEF.MVC.Models.CategoriesView
+@{
+    ViewBag.Title = "Actualizar Categoria";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Actualizar", "Categories", FormMethod.Post))
+{
+    @Html.Partial("_FormCategories");
+}
+
