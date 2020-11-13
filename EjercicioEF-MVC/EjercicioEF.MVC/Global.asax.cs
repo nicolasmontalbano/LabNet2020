@@ -16,6 +16,15 @@ namespace EjercicioEF.MVC
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            Application["CantidadDeVisitantes"] = 0;
+        }
+
+        protected void Session_Start()
+        {
+            Application.Lock();
+            Application["CantidadDeVisitantes"] = (int)Application["CantidadDeVisitantes"] + 1;
+            Application.UnLock();
         }
     }
 }

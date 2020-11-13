@@ -21,8 +21,9 @@ namespace EjercicioEF.MVC.Controllers
                                                     select new CategoriesView() {
                                                         Id = categoria.CategoryID,
                                                         Nombre = categoria.CategoryName,
-                                                        Descripcion = categoria.Description                                          
+                                                        Descripcion = categoria.Description                                                          
                                                     }).ToList();
+            ViewBag.Visitas = HttpContext.Application["CantidadDeVisitantes"];
             return View(categoriesViews);
         }
 

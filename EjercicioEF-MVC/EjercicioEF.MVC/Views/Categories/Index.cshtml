@@ -10,7 +10,7 @@
         <td class="font-weight-bold">ID</td>
         <td class="font-weight-bold">Nombre</td>
         <td class="font-weight-bold">Descripción</td>
-        <td class="font-weight-bold">Acciones</td>
+        <td class="font-weight-bold text-justify">Acciones</td>
     </tr>
 
     @foreach (var cat in Model)
@@ -19,11 +19,12 @@
     <td>@cat.Id</td>
     <td>@cat.Nombre</td>
     <td>@cat.Descripcion</td>
-    <td>@Html.ActionLink("Eliminar", "Delete", new { Id = cat.Id })</td>
-    <td>@Html.ActionLink("Actualizar", "Actualizar", new { Id = cat.Id})</td>
+    <td>@Html.ActionLink("Eliminar", "Delete", new { Id = cat.Id }, new { @class = "btn btn-danger"}) ||
+        @Html.ActionLink("Actualizar", "Actualizar", new { Id = cat.Id }, new { @class = "btn btn-success" })</td>
+    
 </tr>
     }
 
 </table>
 
-<div>@Html.ActionLink("Insertar", "Agregar", "Categories")</div>
+<div>@Html.ActionLink("Insertar", "Agregar", "Categories", new { @class = "btn btn-dark" })</div>
