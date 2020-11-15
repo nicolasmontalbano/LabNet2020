@@ -22,3 +22,23 @@ C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-Ejercic
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.csproj.CopyComplete
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.dll
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioEF (2)\LabNet2020-EjercicioEF\EjercicioEF\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\EjercicioEF.Entities.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\EjercicioEF.Entities.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\EjercicioEF.Entities.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\EntityFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\EntityFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\obj\Debug\EjercicioEF.Entities.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\PagedList.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\PagedList.Mvc.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\PagedList.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Entities\bin\Debug\PagedList.Mvc.xml

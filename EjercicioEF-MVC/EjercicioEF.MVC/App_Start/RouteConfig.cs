@@ -18,6 +18,13 @@ namespace EjercicioEF.MVC
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Categories", action = "Index", id = UrlParameter.Optional }
             );
+
+            routes.MapRoute(
+                name: "Api",
+                url: "{controller}/{action}/{id}",
+                defaults: new { controller = "RAM", action = "Api", startIndex = 1, pageSize = 34, id = UrlParameter.Optional }
+            );
+
         }
     }
 }

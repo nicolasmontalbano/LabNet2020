@@ -198,3 +198,9 @@ C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\Ejercic
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\obj\Debug\EjercicioEF.MVC.csproj.CopyComplete
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\obj\Debug\EjercicioEF.MVC.dll
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\obj\Debug\EjercicioEF.MVC.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\bin\PagedList.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\bin\PagedList.Mvc.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\bin\PagedList.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.MVC\bin\PagedList.Mvc.xml

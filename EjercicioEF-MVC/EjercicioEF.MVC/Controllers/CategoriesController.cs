@@ -26,7 +26,7 @@ namespace EjercicioEF.MVC.Controllers
             ViewBag.Visitas = HttpContext.Application["CantidadDeVisitantes"];
             return View(categoriesViews);
         }
-
+        
         public ActionResult Agregar()
         {
             return View();
