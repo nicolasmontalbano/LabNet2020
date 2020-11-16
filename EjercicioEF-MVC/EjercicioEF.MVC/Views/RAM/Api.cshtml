@@ -30,7 +30,7 @@
     </div>
 </div>
 
-@Html.PagedListPager(Model, i => Url.Action("Api", "RAM", new { i }))
+@Html.PagedListPager(Model, i => Url.Action("Api", "RAM", new { i }), new PagedListRenderOptions { LiElementClasses = new string[]{ "page-item" }, UlElementClasses = new string[] { "pagination" } } )
 
 
-@*@Html.Partial("_Pages");*@
+

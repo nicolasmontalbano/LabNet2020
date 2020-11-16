@@ -35,7 +35,7 @@ namespace EjercicioEF.MVC.Controllers
                 }
             }
 
-            return View(characters.Results.ToList().ToPagedList(i ?? 1,15));
+            return View(characters.Results.ToList().ToPagedList(i ?? 1,9));
 
         }
 
