@@ -28,20 +28,34 @@ namespace EjercicioEF.Logic
         }
 
         public Categories Insert(Categories entity)
-        {
-            Categories nuevaCategoria = context.Categories.Add(entity);
-            context.SaveChanges();
-            return nuevaCategoria;
+        {         
+            try
+            {
+                Categories nuevaCategoria = context.Categories.Add(entity);
+                context.SaveChanges();
+                return nuevaCategoria;
+            }
+            catch (System.Data.Entity.Validation.DbEntityValidationException ex)
+            {
+                throw ex;
+            }
         }
 
 
         public void Update(Categories entity, int id)
         {
-            
-            Categories categoriaAEditar = GetOne(id);
-            categoriaAEditar.CategoryName = entity.CategoryName;
-            categoriaAEditar.Description = entity.Description; 
-            context.SaveChanges();
+                     
+            try
+            {
+                Categories categoriaAEditar = GetOne(id);
+                categoriaAEditar.CategoryName = entity.CategoryName;
+                categoriaAEditar.Description = entity.Description;
+                context.SaveChanges();
+            }
+            catch (System.Data.Entity.Validation.DbEntityValidationException ex)
+            {
+                throw ex;
+            }
         }
 
         public void Delete(int id)

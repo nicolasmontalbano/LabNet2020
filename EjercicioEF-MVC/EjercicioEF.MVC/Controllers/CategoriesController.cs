@@ -1,4 +1,5 @@
-﻿using EjercicioEF.Entities;
+﻿using EjercicioEF.Data;
+using EjercicioEF.Entities;
 using EjercicioEF.Logic;
 using EjercicioEF.MVC.Models;
 using System;
@@ -6,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.UI;
 
 namespace EjercicioEF.MVC.Controllers
 {
@@ -42,18 +44,30 @@ namespace EjercicioEF.MVC.Controllers
             return RedirectToAction("Index");
         }
 
-        public ActionResult Actualizar()
+        public ActionResult Actualizar(int id)
         {
-            return View();
+            CategoriesLogic categoriesLogic = new CategoriesLogic();
+            CategoriesView categoriesView = new CategoriesView();
+            categoriesView.Nombre = categoriesLogic.GetOne(id).CategoryName;
+            categoriesView.Descripcion = categoriesLogic.GetOne(id).Description;
+            if (string.IsNullOrEmpty(categoriesView.ToString()))
+            {                
+                return View();
+            }
+            else
+            {
+                return View(categoriesView);
+            }
+            
         }
 
         [HttpPost]
         public ActionResult Actualizar(CategoriesView categoria, int id)
         {
-            var logic = new CategoriesLogic();
-            var categoriaEntity = new Categories() { CategoryID = categoria.Id ,Description = categoria.Descripcion, CategoryName = categoria.Nombre };
-            logic.Update(categoriaEntity, id);
-            return RedirectToAction("Index");
+                var logic = new CategoriesLogic();
+                var categoriaEntity = new Categories() { CategoryID = categoria.Id, Description = categoria.Descripcion, CategoryName = categoria.Nombre };
+                logic.Update(categoriaEntity, id);
+                return RedirectToAction("Index");     
         }
 
 

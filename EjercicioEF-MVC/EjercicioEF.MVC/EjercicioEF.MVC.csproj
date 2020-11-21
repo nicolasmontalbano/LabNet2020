@@ -304,6 +304,10 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EjercicioEF.Data\EjercicioEF.Data.csproj">
+      <Project>{5AB52EFC-AE48-432C-A163-7A80B84976AC}</Project>
+      <Name>EjercicioEF.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EjercicioEF.Entities\EjercicioEF.Entities.csproj">
       <Project>{8e4281cf-1636-4680-bd63-07191d229429}</Project>
       <Name>EjercicioEF.Entities</Name>

@@ -84,3 +84,37 @@ C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\Ejercic
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\PagedList.Mvc.dll
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\PagedList.xml
 C:\Users\nicol\OneDrive\Escritorio\LabNet2020\Ejercicios\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\PagedList.Mvc.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Logic.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Logic.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Logic.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\Castle.Core.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Data.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Entities.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EntityFramework.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\Moq.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\PagedList.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\PagedList.Mvc.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Data.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Data.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Entities.pdb
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EjercicioEF.Entities.dll.config
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\Castle.Core.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EntityFramework.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\Moq.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\PagedList.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\PagedList.Mvc.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\obj\Debug\EjercicioEF.Logic.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\obj\Debug\EjercicioEF.Logic.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\obj\Debug\EjercicioEF.Logic.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\obj\Debug\EjercicioEF.Logic.dll
+C:\Users\nicol\OneDrive\Escritorio\LabNet2020-EjercicioAPI (2)\LabNet2020-EjercicioAPI\EjercicioEF-MVC\EjercicioEF.Logic\obj\Debug\EjercicioEF.Logic.pdb
